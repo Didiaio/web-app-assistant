@@ -1,0 +1,1 @@
+{"version":3,"file":"js/script.js","mappings":";;;;;AAAA,6C","sources":["webpack://web-app-assistant/./src/scripts/script.js"],"sourcesContent":["console.log(\"Script JS Loaded Successfully!\")"],"names":[],"sourceRoot":""}
