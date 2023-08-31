@@ -1,0 +1,36 @@
+/*!************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./src/styles/style.css ***!
+  \************************************************************************/
+main {
+  display: block;
+  text-align: center;
+  justify-content: center;
+  border: 1px solid #fff;
+  padding: 25px;
+}
+
+div {
+  border: 1px solid #fff;
+  padding: 20px;
+  transition: 100ms ease-in-out;
+}
+
+div:hover {
+  transform: scale(1.05);
+  box-shadow: 0px 10px 15px -3px rgba(0, 0, 0, 0.1);
+}
+
+footer {
+  padding: 10px;
+  position: fixed;
+  bottom: 0;
+}
+
+span {
+  color: #fff;
+  font-weight: 100;
+  font-size: 12px;
+}
+
+
+/*# sourceMappingURL=style.css.map*/

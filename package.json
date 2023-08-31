@@ -1,0 +1,30 @@
+{
+  "name": "web-app-assistant",
+  "version": "1.0.0",
+  "description": "Web Application Assistant",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "rm -rf dist/ && webpack",
+    "server": "live-server dist"
+  },
+  "keywords": [
+    "web-app-assistant",
+    "html-builder",
+    "html-assistant"
+  ],
+  "author": "Dani Bester",
+  "license": "MIT",
+  "devDependencies": {
+    "css-loader": "^6.8.1",
+    "html-minimizer-webpack-plugin": "^4.4.0",
+    "html-webpack-plugin": "^5.5.3",
+    "mini-css-extract-plugin": "^2.7.6",
+    "style-loader": "^3.3.3",
+    "webpack": "^5.88.2",
+    "webpack-cli": "^5.1.4",
+    "webpack-dev-server": "^4.15.1",
+    "webpack-merge": "^5.9.0"
+  }
+}

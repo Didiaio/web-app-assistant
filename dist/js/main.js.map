@@ -1,0 +1,1 @@
+{"version":3,"file":"js/main.js","mappings":";;;;;AAAA,4C","sources":["webpack://web-app-assistant/./src/scripts/main.js"],"sourcesContent":["console.log(\"Main js loaded successfully!\");"],"names":[],"sourceRoot":""}
